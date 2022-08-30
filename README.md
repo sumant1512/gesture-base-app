@@ -1,2 +1,7 @@
-# gesture-base-app
-This is gesture based app.
+# Angular + TensorFlow.js
+
+A simple, demo web experienced developed with Angular and TensorFlow.js.
+
+## License
+
+MIT
